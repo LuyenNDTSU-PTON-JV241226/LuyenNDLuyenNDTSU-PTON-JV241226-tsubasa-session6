@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 168px;
+}
+.container {
+    border: 2px solid rgb(249, 245, 241);
+    border-radius: 2px;
+    width: 178px;
+}
+p {
+    text-align: center;
+    font-size: 20px;
+    color: black;
+    margin: 10px 0 10px 10px;
+}
+button {
+    background-color: #007bff;
+    color: aliceblue;
+    width: 168px;
+    margin: 10px 0 10px 10px;
+    border-radius: 2px;
+}
+label {
+    margin-left: 10px;
+}
+input {
+    margin: 0 0 10px 10px;
+}
